@@ -10,22 +10,22 @@
 
 # This file is a part of the HSHSL workshop Using GitHub to Manage Your Scholarly Work.
 
-name: 
-email: 
-job_title: 
-degrees: [] # type your degrees inside the square brackets in quotes and separated by a comma, ie: ["BA","MS","Ph.D"]
-institution_name: 
-institution_URL: 
-department_name: 
+name: Alicia Howard
+email: ahoward@medicine.umaryland.edu
+job_title: Postdoctoral Fellow
+degrees: ["PhD"] # type your degrees inside the square brackets in quotes and separated by a comma, ie: ["BA","MS","Ph.D"]
+institution_name: UMB
+institution_URL: http://umaryland.edu
+department_name:EDN 
 department_URL: 
-github_username: 
+github_username: alicia1howard
 twitter_username: 
 linkedin_URL: 
 selfie_URL: 
 
 social:
-  have_twitter: true
-  have_linkedin: true
+  have_twitter: false
+  have_linkedin: false
 
 # Technical configuration
 markdown: kramdown
